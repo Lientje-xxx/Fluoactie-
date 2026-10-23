@@ -1,0 +1,7 @@
+android en apple
+eerste scherm: graad/jaar =>
+tweede scherm: klas =>
+derde scherm: naam leerling en nummer aanduiden, schermpje met fluo of helm (of beide) teller van leerling 
+scores moeten behouden worden
+random winnaar
+Bij mistikken kunnen terugkeren
